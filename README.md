@@ -18,4 +18,4 @@ This project is a simple React application designed to perform candidate searche
 3. Start the development server with `npm start`.
 
 ## Live Demo
-Check out the deployed application [here](https://candidate-search-project-13.onrender.com/).
+Check out the deployed application [here](https://candidate-search-project-13-1.onrender.com/).
